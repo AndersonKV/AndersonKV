@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+No meu processo de aprendizagem passei por algumas linguagens e framework e aprendi um pouco com cada uma delas</br>
+Atualmente estou focado no frontend e mobile, mas gosto de besbilhotar o java também
+
 <!--
 **AndersonKV/AndersonKV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
