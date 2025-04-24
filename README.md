@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-No meu processo de aprendizagem passei por algumas linguagens e framework e aprendi um pouco com cada uma delas.</br>
-</br>
-Atualmente estou focado no frontend e mobile, mas gosto de besbilhotar o java também
-
+Desenvolvedor, com foco em Java e Spring Boot, atuando em 
+<br> 
+sistemas financeiros, incluindo integrações via arquivos CNAB. Tenho vivência em ambientes Linux,
+<br>
+manutenção de sistemas legados e desenvolvimento de aplicações modernas com boas práticas 
+<br>
+de arquitetura, segurança e testes automatizados. Tenho facilidade em aprender novas tecnologias, trabalhar
+<br>
+em equipe e utilizar metodologias ágeis.
 <!--
 **AndersonKV/AndersonKV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +31,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  height="40" width="52"  alt="java logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  height="40" width="52"  alt="spring boot logo" />
